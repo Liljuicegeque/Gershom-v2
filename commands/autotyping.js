@@ -1,5 +1,5 @@
 /**
- * laser Md Bot - A WhatsApp Bot
+ * Geque Md Bot - A WhatsApp Bot
  * Autotyping Command - Shows fake typing status
  */
 
@@ -62,7 +62,7 @@ async function autotypingCommand(sock, chatId, message) {
                         forwardingScore: 1,
                         isForwarded: true,
                         forwardedNewsletterMessageInfo: {
-                            newsletterJid: '120363346160305494@newsletter,
+                            newsletterJid: '120363346160305494@newsletter',
                             newsletterName: 'Seventh Day Adventist',
                             serverMessageId: -1
                         }
