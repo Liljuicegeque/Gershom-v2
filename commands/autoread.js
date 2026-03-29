@@ -1,5 +1,5 @@
 /**
- * laser md Bot - A WhatsApp Bot
+ * Geque md Bot - A WhatsApp Bot
  * Autoread Command - Automatically read all messages
  */
 
@@ -31,8 +31,8 @@ async function autoreadCommand(sock, chatId, message) {
                     forwardingScore: 1,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: // add newsletter,
-                        newsletterName: //newsletter name,
+                        newsletterJid: '120363346160305494@newsletter',
+                        newsletterName: 'Seventh Day Adventist',
                         serverMessageId: -1
                     }
                 }
@@ -62,8 +62,8 @@ async function autoreadCommand(sock, chatId, message) {
                         forwardingScore: 1,
                         isForwarded: true,
                         forwardedNewsletterMessageInfo: {
-                            newsletterJid: 'add your newsletterJid',
-                            newsletterName: 'add your bot name',
+                            newsletterJid: '120363346160305494@newsletter',
+                            newsletterName: 'Seventh Day Adventist',
                             serverMessageId: -1
                         }
                     }
@@ -85,8 +85,8 @@ async function autoreadCommand(sock, chatId, message) {
                 forwardingScore: 1,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: 'newsletter',
-                    newsletterName: 'news letter name',
+                    newsletterJid: '120363346160305494@newsletter',
+                    newsletterName: 'Seventh Day Adventist',
                     serverMessageId: -1
                 }
             }
