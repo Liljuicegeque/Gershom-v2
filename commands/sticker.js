@@ -58,7 +58,7 @@ async function stickerCommand(sock, chatId, message) {
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363346160305494@newsletter,
+                        newsletterJid: '120363346160305494@newsletter',
                         newsletterName: 'Seventh Day Adventist',
                         serverMessageId: -1
                     }
@@ -216,7 +216,7 @@ async function stickerCommand(sock, chatId, message) {
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363346160305494@newsletter,
+                    newsletterJid: '120363346160305494@newsletter',
                     newsletterName: 'Seventh Day Adventist',
                     serverMessageId: -1
                 }
