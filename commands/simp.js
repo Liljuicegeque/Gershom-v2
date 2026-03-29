@@ -52,7 +52,7 @@ async function simpCommand(sock, chatId, quotedMsg, mentionedJid, sender) {
                 forwardingScore: 1,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363346160305494@newsletter,
+                    newsletterJid: '120363346160305494@newsletter',
                     newsletterName: 'Seventh Day Adventist',
                     serverMessageId: -1
                 }
